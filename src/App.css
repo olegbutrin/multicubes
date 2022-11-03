@@ -1,0 +1,34 @@
+.Container {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: stretch;
+  justify-content: flex-start;
+  gap: 20px;
+  padding: 20px
+}
+
+.Row {
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  gap: 20px;
+}
+
+.Multicube {
+  display: inline-block;
+  font-weight: bold;
+  cursor: pointer;
+}
+
+
+thead {
+  background-color: lightgray;
+  font-weight: bold;
+}
+
+td {
+  border: 1px solid black;
+  padding: 10px;
+}

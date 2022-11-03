@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/multicubes/static/css/main.900eb3a4.css",
+    "main.js": "/multicubes/static/js/main.22023b3d.js",
+    "static/js/787.c52629ee.chunk.js": "/multicubes/static/js/787.c52629ee.chunk.js",
+    "index.html": "/multicubes/index.html",
+    "main.900eb3a4.css.map": "/multicubes/static/css/main.900eb3a4.css.map",
+    "main.22023b3d.js.map": "/multicubes/static/js/main.22023b3d.js.map",
+    "787.c52629ee.chunk.js.map": "/multicubes/static/js/787.c52629ee.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.900eb3a4.css",
+    "static/js/main.22023b3d.js"
+  ]
+}
